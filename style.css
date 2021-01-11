@@ -178,7 +178,7 @@
 @media (max-width: 798px) {
   .showcase,
   .showcase header {
-    padding: 40px;
+    padding: 10px 20px 0 20px;
   }
 
   .showcase.active {
@@ -187,6 +187,10 @@
 
   .logo {
     width: 100px;
+  }
+
+  .text {
+    margin-top: -100px;
   }
 
   .text h2 {
@@ -203,5 +207,9 @@
 
   .menu {
     width: 250px;
+  }
+
+  .social {
+    bottom: 80px;
   }
 }
